@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.submitbtn{
+  border-radius: 40px;
+
+} */
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.div-style1{
+  margin-top: -80px;
+  height:900px;
+ 
+  width: 50%;
+  margin-left: 930px;
+ 
+  text-align: center;
+  align-items: center;
+ }
+
+ 
+ /* .inner_div{
+   margin-top: 400px;
+   align-items: center;
+   background-color: "green";
+ } */
+ .btn{
+   border-radius: 30%;
+   border: 1px;
+   background-color: aqua;
+ }
+ input{
+   height:40px;
+   width: 300px;
+   text-align:center;
+ }
